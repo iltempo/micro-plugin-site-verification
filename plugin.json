@@ -1,0 +1,14 @@
+{
+  "version": "0.8",
+  "title": "Google Site Verification",
+  "description": "This plugin adds a Google meta tag to verify ownership of that blog.",
+  "includes": [
+    "google_meta.html"
+  ],
+  "fields": [
+	  {
+		"field": "params.google_site_verification",
+		"label": "Google site verification code"
+	  }
+	]
+}
