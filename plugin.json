@@ -1,5 +1,5 @@
 {
-  "version": "0.9.1",
+  "version": "0.9",
   "title": "Google Site Verification",
   "description": "This plugin adds a Google meta tag to verify ownership of a Micro.blog blog.",
   "includes": [
