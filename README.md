@@ -7,7 +7,7 @@ It is useful if you did not set up a custom domain or cannot modify your custom 
 
 ### 1. Install the plugin
 
-[Install the plugin](https://micro.blog/account/themes/new?plugin=1) on Micro.blog for your site
+[Install the plugin](https://micro.blog/account/themes/new?plugin=1) on Micro.blog for your site.
 
 ### 2. Add search property
 
@@ -19,3 +19,8 @@ It is useful if you did not set up a custom domain or cannot modify your custom 
 ### 3. Set up the plugin for your site
 
 Add the content of the meta tag from before to the plugin settings on Micro.blog
+
+### 4. Finish the verification process
+
+Now you should be able to finalize the verification process in the Google Search Console.
+In addition, you could add a default sitemap *sitemap.xml*.
