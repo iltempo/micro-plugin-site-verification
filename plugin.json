@@ -1,14 +1,19 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "title": "Google Site Verification",
   "description": "This plugin adds a Google meta tag to verify ownership of a Micro.blog blog.",
   "includes": [
-    "google_meta.html"
+    "google_meta.html",
+    "microsoft_meta.html"
   ],
   "fields": [
 	  {
 		"field": "params.google_site_verification",
 		"label": "Google site verification code"
+	  },
+	  {
+		"field": "params.microsoft_site_verification",
+		"label": "Bing site verification code"
 	  }
 	]
 }
